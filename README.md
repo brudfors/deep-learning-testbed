@@ -2,8 +2,8 @@
 
 Code for doing deep learning, mostly on medical images (in python) 
 
-## Install Anaconda (I use 4.7.11)
-I use the latest 3.7 Linux version from https://www.anaconda.com/distribution/#download-section.
+## Install Anaconda
+I use the latest Python 3.7 Linux version from https://www.anaconda.com/distribution/#download-section. At the time of writing the version is 4.7.11.
 
 ## Install TensorFlow 1.9 (CPU)
 * (conda env list)
